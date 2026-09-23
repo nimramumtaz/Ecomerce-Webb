@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "Enterprise RESTful API with GraphQL over-fetching solution - AWT Lab 03",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["rest", "api", "graphql", "express"],
+  "author": "Nimra Mumtaz (Don)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
