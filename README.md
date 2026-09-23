@@ -16,6 +16,13 @@ to solve the classic REST **over-fetching** problem.
 - **Standardized JSON errors** — every error returns `error_code`, `message`,
   `timestamp`
 
+## 📸 Screenshots
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/65082432-35b5-491d-8b31-b2a31d62abeb" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/ddf6ce22-ef01-4986-95c1-0668a814ca79" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/0d29f840-3189-4ffd-b91a-425050a5526a" />
+<img width="1282" height="618" alt="Image" src="https://github.com/user-attachments/assets/fddf8dd2-1448-4a18-9f81-612de6a887b5" />
+
 ## 🛠 Setup & Running
 
 ```bash
